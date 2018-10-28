@@ -6,6 +6,7 @@
   
   if option == 1:
     print"yes"
-    
+    hello
+    hii
   else:
     print"no"
