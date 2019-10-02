@@ -1,11 +1,12 @@
 # hello-world
   welcome to dreadlocks!!!
   just started..so still learning!!!!
-  1.liked
+  1.likedsdcdsdsdsvdd
   2.disliked
+banana
   
   if option == 1:
-    print"yes"
+    print"yes" m cjdsbcyhjduvaschjdvc
     
   else:
-    print"no"
+    print"nsdmvcdjskdsjhbdshjbs
